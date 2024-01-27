@@ -20,7 +20,7 @@ const Hero = ({
           UniUni and SpeedX.
         </p>
         <form action="#" className="flex flex-col">
-          <label htmlFor="tracking-id" className="text-2xl md:mb-6">
+          <label htmlFor="tracking-id" className="md:text-2xl md:mb-6 mt-2">
             Enter your tracking number
           </label>
           <input
@@ -28,9 +28,9 @@ const Hero = ({
             id="tracking-id"
             ref={inputRef}
             placeholder="E.g. WL1122334455"
-            className="b-1 b-solid b-gray py-3 pl-2 rounded-lg focus:w-2xl placeholder-gray"
+            className="b-1 b-solid b-gray py-3 pl-2 rounded-lg md:focus:w-2xl placeholder-gray"
           />
-          <button className="btnPrimary mt-4 h-10 md:text-lg md:h-3rem md:mt-6 max-w-10rem">
+          <button className="btnPrimary mt-4 h-10 md:text-lg md:h-3rem md:mt-6 md:max-w-10rem">
             Tracking →
           </button>
         </form>

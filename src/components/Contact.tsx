@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div className="flex py-10 px-2 bg-[#97979745] justify-between items-center md:w-full md:justify-around">
+    <div className="flex py-10 px-2 bg-[#97979745] justify-between items-center w-full md:justify-around">
       <h2 className="text-lg md:text-2xl">Need help? Contact Us~</h2>
       <a
         href="Mailto:wlexpress888@gmail.com"
