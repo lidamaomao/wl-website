@@ -1,0 +1,65 @@
+{
+  "id": "4425056",
+  "name": "W&L",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577380",
+      "name": "物流",
+      "font_class": "wuliu",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "1356139",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2076420",
+      "name": "增值服务",
+      "font_class": "zengzhifuwu",
+      "unicode": "e8d0",
+      "unicode_decimal": 59600
+    },
+    {
+      "icon_id": "2251302",
+      "name": "个性化",
+      "font_class": "gexinghua",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "4611382",
+      "name": "未来",
+      "font_class": "weilai",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "5643516",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18454394",
+      "name": "技术支持",
+      "font_class": "tubiaozhizuomoban",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "26234538",
+      "name": "成功率",
+      "font_class": "chenggongshuai",
+      "unicode": "e8db",
+      "unicode_decimal": 59611
+    }
+  ]
+}
